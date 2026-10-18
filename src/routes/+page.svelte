@@ -1,6 +1,7 @@
 <svelte:head>
 	<title>Hello world :3</title>
 	<meta name="description" content="This is a description :>" />
+	<meta name="google-site-verification" content="WHYBgp3-R7vM-rmsoPRBxUj_h7TdRJgBdKZflwthOqY" />
 </svelte:head>
 
 <h1>Hello there! I'm Aqil Dzarfan A. Sharaff</h1>
